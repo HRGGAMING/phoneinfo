@@ -1,4 +1,4 @@
-<h1 align="center">PhoneInfoga</h1>
+<h1 align="center">PhoneInfo</h1>
 
 <div align="center">
   <a href="https://travis-ci.org/sundowndev/PhoneInfoga">
